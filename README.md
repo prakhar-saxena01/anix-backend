@@ -1,5 +1,7 @@
 # AniX - Stream Animes
 
+<img style="border-radius: 4px; margin-bottom: 16px" src="https://res.cloudinary.com/tylerdurden/image/upload/v1611635911/random/cb_amdqeu.png" alt="banner" height="280">
+
 This is the backend repository of AniX built with scrapy framework. If you want to visit the frontend repo, [click here](https://github.com/manikandanraji/AniX).
 
 ## Spiders
